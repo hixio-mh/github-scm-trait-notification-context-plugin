@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.2</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <artifactId>github-scm-trait-notification-context</artifactId>
     <version>1.2-SNAPSHOT</version>
@@ -57,7 +57,7 @@
         <dependency>
             <groupId>com.infradna.tool</groupId>
             <artifactId>bridge-method-annotation</artifactId>
-            <version>1.17</version>
+            <version>1.18</version>
         </dependency>
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
